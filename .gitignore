@@ -1,2 +1,5 @@
 myenv/
 venv/
+# Ignore sensitive files
+glimmerproject/db.sqlite3
+glimmerproject/glimmerproject/settings.py
